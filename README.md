@@ -1,16 +1,16 @@
 ### Языки программирования, библиотеки и фреймворки
 
-Kotlin:
-  Jetpack Compose.
-C#:
-  .NET Framework,
-  .NET Core,
-  EntityFramework,
-  WPF
+1. Kotlin:
+  - Jetpack Compose.
+2. C#:
+  - .NET Framework,
+  - .NET Core,
+  - EntityFramework,
+  - WPF
 
 ### СУБД
-  MySQL
-  SqlServer
+  1. MySQL
+  2. SqlServer
 ### OC
-  Windows
-  Android
+  1. Windows
+  2. Android
