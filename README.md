@@ -1,16 +1,16 @@
-### Hi there 👋
+### Языки программирования, библиотеки и фреймворки
 
-<!--
-**MorikoKimura/MorikoKimura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Kotlin:
+  Jetpack Compose.
+C#:
+  .NET Framework,
+  .NET Core,
+  EntityFramework,
+  WPF
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### СУБД
+  MySQL
+  SqlServer
+### OC
+  Windows
+  Android
